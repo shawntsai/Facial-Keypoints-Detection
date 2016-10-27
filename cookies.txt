@@ -1,0 +1,12 @@
+# Cookies for domains related to kaggle.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt https://www.kaggle.com/c/facial-keypoints-detection/data?training.zip#_=_
+#
+www.kaggle.com	FALSE	/	FALSE	0	__RequestVerificationToken	7GC23Yyhwc-BzKQlwE-zogu4GYSSWkTmAEzrcpUjtYtBDnNq6_Y92VMmGl3rDvIReT7F9pwiHyjl4iuN2suWU-xhZh81
+.kaggle.com	TRUE	/	FALSE	1477533661	__utmt	1
+.kaggle.com	TRUE	/	TRUE	1540605084.015105	.ASPXAUTH	399BCC68C4FA4B2D84E86C72684A09405DCC86F9DD8CB0B38B5E80E21B7D8BE047041BB6B2B2AFDF762C273EAE808316C37693A635C163D1B43F7D139B937F8763080E18B692C99AC05510137C0AF61C15699B59
+.kaggle.com	TRUE	/	FALSE	1540605085	__utma	158690720.1411389596.1477533061.1477533061.1477533061.1
+.kaggle.com	TRUE	/	FALSE	1477534885	__utmb	158690720.4.9.1477533082529
+.kaggle.com	TRUE	/	FALSE	0	__utmc	158690720
+.kaggle.com	TRUE	/	FALSE	1493301085	__utmz	158690720.1477533061.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+www.kaggle.com	FALSE	/	TRUE	0	TempData	.UTOP92YkgxS1/d3Fs7q5SkR9lcw9RkNwqjGbViJRmGkRwxUR82HzoKgPuaEtVuKHacao3vH5iXlRshQZ5shCUg7zJYg=
