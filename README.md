@@ -17,7 +17,7 @@ And finally make predictions to submit to Kaggle:
  - Search "community AMI's" for AMI ID ``` theano-tensorflow-cuda7.0-cudnn4 (ami-2f8c7b42)```
  - And for GPU instance I used GPU instances g2.2xlarge
 2. ssh into the server
-3. ```git clone https://github.com/wendykan/AWSGPU_DeepLearning.git```
+3. ```git clone https://github.com/shawntsai/Facial-Keypoints-Detection.git```
 4. ```chmod 777 -R AWSGPU_DeepLearning/```
 5. ```vi cookies.txt```
   - Then copy-paste kaggle cookie into this file
